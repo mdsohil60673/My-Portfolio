@@ -34,6 +34,9 @@ ESLint
 To run this project locally:
 
 git clone https://github.com/mdsohil60673/My-Portfolio.git
+
 cd Portfolio
+
 npm install
+
 npm run dev
