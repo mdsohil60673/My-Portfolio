@@ -426,7 +426,7 @@ const About = () => {
                 fontWeight: "600",
               }}
             >
-              dedicated Data Analyst & Full-Stack Web Developer
+              Dedicated Software Developer & IT Engineer
             </span>{" "}
             passionate about crafting intuitive, scalable, and visually
             appealing digital solutions. With expertise in modern technologies,
