@@ -224,7 +224,7 @@ const Hero = () => {
               display: "block",
             }}
           >
-            Data Analyst & Full-Stack Developer from India
+            Software Developer & IT Engineer from India
           </span>
         </h1>
         <p
@@ -293,7 +293,7 @@ const Hero = () => {
 
           {/* === "DOWNLOAD RESUME" BUTTON (Applying the same fix for consistency) === */}
           <a
-            href="/Md Sohil Resume.pdf"
+            href="/resume_MdSohil.pdf"
             download
             style={{
               padding: isMobile ? "0.7rem 1rem" : "0.9rem 1.8rem",
