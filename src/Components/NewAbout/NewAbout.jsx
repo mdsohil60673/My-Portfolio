@@ -270,7 +270,7 @@ const NewAbout = () => {
           <p>
             I'm a passionate{" "}
             <span className="highlight">
-              Data Analyst & Full-Stack Developer
+              Software Developer & IT Engineer
             </span>{" "}
             specializing in building modern, scalable, and user-centric web
             applications. With expertise in technologies like{" "}
