@@ -550,7 +550,7 @@ const MyProjects = () => {
                     <Globe size={14} /> Live Demo{" "}
                   </a>
                   <a
-                    href={project.github_url}
+                    href={https://github.com/mdsohil60673}
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
