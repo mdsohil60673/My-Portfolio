@@ -158,7 +158,7 @@ const Footer = () => {
             margin: 0,
           }}
         >
-          I'm a passionate Data Analyst & Full-stack web developer focused on
+          I'm a passionate Software Developer & IT Engineer focused on
           creating seamless, responsive, and innovative digital solutions. Let's
           bring your vision to life!
         </p>
